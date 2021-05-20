@@ -1,5 +1,0 @@
-# Next.js Starter Project with Tailwind CSS installed with 'JIT' mode
-
-Clone the project, `npm install` and start creating your own Next.js app with Tailwind CSS installed and setup.
-
-Use `npm run build:css` to watch and build the styles.
